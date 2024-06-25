@@ -100,7 +100,7 @@ int main() {
             ch = 'X';
         }
         if(ch == 'o'){
-            ch = 'X';
+            ch = 'O';
         }
         char a[2];
         a[0] = ch;
